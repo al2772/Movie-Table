@@ -1,7 +1,3 @@
-/* Adam Lewandowski
- * aclewandowsk
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "student_functions.h"
